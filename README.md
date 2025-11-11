@@ -12,10 +12,15 @@
 `sui move test`
 
 All tests should pass successfully:
+
 [ PASS ] sui_counter::sui_counter_tests::test_create_counter
+
 [ PASS ] sui_counter::sui_counter_tests::test_increment
+
 [ PASS ] sui_counter::sui_counter_tests::test_decrement_success
+
 [ PASS ] sui_counter::sui_counter_tests::test_decrement_fail_zero
+
 
 ### Deploy to Testnet
 `sui client publish --gas-budget 100000000`
