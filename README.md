@@ -1,5 +1,8 @@
 # Counter-DApp
 
+## Package deployment ID:
+  - 0x6e2d9e4b3e1560c671de36dc4d28b008efe92338488709d7e493d4418b7
+
 ## Build & Test Instructions
 
 ### Build the contract
