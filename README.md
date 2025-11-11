@@ -19,6 +19,7 @@ All tests should pass successfully:
 
 ### Deploy to Testnet
 `sui client publish --gas-budget 100000000`
+
 After publishing, you will receive your Package ID and Transaction Hash.
 
 
